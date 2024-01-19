@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667281808 source:c:\users\mazen\desktop\code blocks\car\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<stdlib.h>
+	<unistd.h>
+	<dos.h>
+	<iomanip>
+
